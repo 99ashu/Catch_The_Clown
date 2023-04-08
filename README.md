@@ -1,6 +1,6 @@
 ## How To Play?
-Clone or download this repository.  
-Run the file "clown.exe"
+*Clone or download this repository.  
+*Run the file "clown.exe"
 
 ## Goal Of The Game
 *A clown will constantly move around the screen.  
@@ -10,8 +10,8 @@ Run the file "clown.exe"
 
 ## Controls
 
-Mouse Movements - Move the cursor  
-Left Mouse Button - Catching the clown
+*Mouse Movements - Move the cursor  
+*Left Mouse Button - Catching the clown
 
 ## Screenshots
 ![game](https://raw.githubusercontent.com/99ashu/Catch_The_Clown/main/screenshots/Screenshot%202023-04-08%20144348.png)
