@@ -15,4 +15,4 @@ Mouse Movements - Move the cursor
 Left Mouse Button - Catching the clown
 
 ## Screenshots
-!.[game](https://raw.githubusercontent.com/99ashu/Catch_The_Clown/main/screenshots/Screenshot%202023-04-08%20144348.png)
+![game](https://raw.githubusercontent.com/99ashu/Catch_The_Clown/main/screenshots/Screenshot%202023-04-08%20144348.png)
